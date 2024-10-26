@@ -1,0 +1,17 @@
+
+লাইভ ক্লাস
+
+১৮ ডিসে, রাত ৯:০০
+
+এটেন্ড্যান্স স্কোর যুক্ত হবে
+
+Eloquent ORM Essentials: Models, Operations, and Advanced Queries
+
+টপিক:
+
+laravel model advance queries | Laravel model
+
+নোট:
+
+Why and how Eloquent ORM works | Model Naming Conventions | Insert, Update, Delete, Fillable Properties | 
+Increment Decrement, Retrieving Rows Columns | 
